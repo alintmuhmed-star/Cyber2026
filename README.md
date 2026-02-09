@@ -1,6 +1,6 @@
 # Hi there, I'm [Mohammed]! 👋
 
-### 🛡️ Cybersecurity Analyst | Pentester |AI & Digital Trust Enthusiast | eJPT v2 Candidate
+### 🛡️ Cybersecurity Analyst |  PentesterLab | AI & Digital Trust Enthusiast | eJPT v2 Candidate | 
 
 I am a proactive security professional focused on **Offensive Security** and the integration of **Artificial Intelligence** into cyber defense. I enjoy deconstructing complex vulnerabilities and building automated solutions to secure digital ecosystems.
 
